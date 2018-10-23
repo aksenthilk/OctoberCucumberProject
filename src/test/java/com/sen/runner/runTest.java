@@ -28,8 +28,8 @@ import com.github.mkolisnyk.cucumber.runner.ExtendedCucumberOptions;*/
 				"rerun:target\\rerun.txt", "com.cucumber.listener.ExtentCucumberFormatter:src/test/resource//com/sen/reports/ExtentSen.html" })
                      */    
 @CucumberOptions(features = "G:\\SeleniumCucumberWorkSpace\\OctoberCucumber\\src\\main\\java\\com\\sen\\feature", glue = {
-"com\\sen\\stepDefinition" }, strict = true, dryRun = false, plugin = { "html:output\\result",
-		"rerun:output\\rerun.txt", "com.cucumber.listener.ExtentCucumberFormatter:output\\ExtentSen" })
+"com\\sen\\stepDefinition" }, strict = true, dryRun = false, plugin = { "html:output\\result.html",
+		"rerun:output\\rerun.txt", "com.cucumber.listener.ExtentCucumberFormatter:output\\ExtentSen.html" })
              //**/target/myreport/index.html,**/output/report.html,**/target/myreport/embedded0.png,**/target/myreport/embedded1.png
 
 public class runTest {
