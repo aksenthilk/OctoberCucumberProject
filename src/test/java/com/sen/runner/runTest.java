@@ -24,7 +24,7 @@ import com.github.mkolisnyk.cucumber.runner.ExtendedCucumberOptions;*/
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "G:\\SeleniumCucumberWorkSpace\\OctoberCucumber\\src\\main\\java\\com\\sen\\feature", glue = {
-		"com\\sen\\stepDefinition" }, strict = true, dryRun = false, plugin = { "html:com\\sen\\reports\\result.html",
+		"com\\sen\\stepDefinition" }, strict = true, dryRun = false, plugin = { "html:com\\sen\\reports\\result",
 				"rerun:target\\rerun.txt", "com.cucumber.listener.ExtentCucumberFormatter:src/test/resource//com/sen/reports/ExtentSen.html" })
                             
 public class runTest {
