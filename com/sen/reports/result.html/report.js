@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 35037000767,
+  "duration": 55747485445,
   "status": "passed"
 });
 formatter.background({
@@ -26,7 +26,7 @@ formatter.match({
   "location": "stepDefs.user_is_on_the_Free_CRM_HP()"
 });
 formatter.result({
-  "duration": 1057833955,
+  "duration": 2129147110,
   "status": "passed"
 });
 formatter.scenario({
@@ -66,43 +66,43 @@ formatter.match({
   "location": "stepDefs.user_clicks_on_Features_link()"
 });
 formatter.result({
-  "duration": 19706831001,
+  "duration": 24722080848,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.user_navigates_to_Features_page()"
 });
 formatter.result({
-  "duration": 20083333,
+  "duration": 32024585,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.user_clicks_on_the_Free_CRM_Logo()"
 });
 formatter.result({
-  "duration": 3976810458,
+  "duration": 4069324267,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.user_lands_on_the_HP()"
 });
 formatter.result({
-  "duration": 19385707,
+  "duration": 20274993,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.closes_the_HP()"
 });
 formatter.result({
-  "duration": 55026,
+  "duration": 53627,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2320648755,
+  "duration": 961981706,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10527195529,
+  "duration": 20384175172,
   "status": "passed"
 });
 formatter.background({
@@ -121,7 +121,7 @@ formatter.match({
   "location": "stepDefs.user_is_on_the_Free_CRM_HP()"
 });
 formatter.result({
-  "duration": 20098722,
+  "duration": 22576320,
   "status": "passed"
 });
 formatter.scenario({
@@ -161,39 +161,39 @@ formatter.match({
   "location": "stepDefs.user_clicks_on_Pricing_link()"
 });
 formatter.result({
-  "duration": 7913339535,
+  "duration": 11428747234,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.user_navigates_to_Pricing_page()"
 });
 formatter.result({
-  "duration": 11189999,
+  "duration": 14362892,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.user_clicks_HomePage_link()"
 });
 formatter.result({
-  "duration": 3589251148,
+  "duration": 3630377516,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.user_lands_on_the_HP()"
 });
 formatter.result({
-  "duration": 13321582,
+  "duration": 14369886,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.closes_the_HP()"
 });
 formatter.result({
-  "duration": 33109,
+  "duration": 40104,
   "status": "passed"
 });
 formatter.after({
-  "duration": 96290597,
+  "duration": 131471287,
   "status": "passed"
 });
 formatter.uri("Login.feature");
@@ -205,7 +205,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 11519610243,
+  "duration": 18899448101,
   "status": "passed"
 });
 formatter.scenario({
@@ -240,32 +240,32 @@ formatter.match({
   "location": "stepDefs.user_is_on_the_Free_CRM_HP()"
 });
 formatter.result({
-  "duration": 27044206,
+  "duration": 27295557,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.user_submits_valid_user_name_and_password()"
 });
 formatter.result({
-  "duration": 13298725760,
+  "duration": 13284700490,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.user_navigates_to_Dashboard_page()"
 });
 formatter.result({
-  "duration": 11473525,
+  "duration": 38026222,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefs.closes_the_HP()"
 });
 formatter.result({
-  "duration": 31710,
+  "duration": 41970,
   "status": "passed"
 });
 formatter.after({
-  "duration": 395664086,
+  "duration": 2295177473,
   "status": "passed"
 });
 });
