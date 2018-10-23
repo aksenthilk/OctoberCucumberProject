@@ -132,7 +132,8 @@ public class stepDefs extends TestBase {
 
 			//File dest = new File("report/" + src.getName());
 			
-			File dest = new File("src/test/resource//com/sen/reports/" + src.getName());
+			//File dest = new File("src/test/resource//com/sen/reports/" + src.getName());
+			File dest = new File("output/" + src.getName());
 			
 
 			FileUtils.copyFile(src, dest);
